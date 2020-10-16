@@ -2,8 +2,13 @@ package com.steve.array;
 
 /**
  * @Description: 数组的二分查找
+ *              查询某个值在数值中的下标
  * @Author: SteveTao
  * @Date: 2020/9/1510:57
+ *
+ *  使用案例：
+ *      单词逆序；  ABCD -> DCBA
+ *      分隔符匹配： (A:[{B:b}])   检查括号是否闭合？
  **/
 public class Array2find {
 

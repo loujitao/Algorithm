@@ -6,6 +6,8 @@ import java.util.Arrays;
  * @Description: 插入排序
  * @Author: SteveTao
  * @Date: 2020/9/1514:17
+ *
+ *  适合局部有序的数据排序， 下来while循环条件为假的次数多，相当于只有一层循环
  **/
 public class InsertSort {
 
